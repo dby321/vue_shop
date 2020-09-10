@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 解决ESlint语法报错
+https://www.bilibili.com/video/BV1EE411B7SU?p=27
