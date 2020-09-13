@@ -5,9 +5,11 @@ import store from './store'
 // 按需引入Element-Ui
 import './plugins/element.js'
 // 引入font-awesome
-import 'font-awesome/css/font-awesome.css'
+import 'font-awesome/css/font-awesome.min.css'
 // 导入全局样式
 import "./assets/css/global.css"
+import TreeTable from "vue-table-with-tree-grid"
+Vue.use(TreeTable);
 // 配置axios
 import axios from "axios"
 // 配置请求的根路径
