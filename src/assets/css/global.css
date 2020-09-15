@@ -22,3 +22,6 @@ html,body,#app{
 .el-cascader-menu{
     height: 300px;
 }
+.el-tag{
+    margin:10px;
+}
